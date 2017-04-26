@@ -1,0 +1,63 @@
+# Version: 10.8.0.175 (d15-1: a04678c2)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.iOS.framework/Versions/10.8.0.175/lib/mtouch/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.8.0.175/lib/mtouch/mtouch.exe \
+	--cache \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/Trustore/obj/iPhone/Release/mtouch-cache" \
+	--dev \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/Trustore/bin/iPhone/Release/Trustore.app" \
+	--executable \
+	Trustore \
+	--linksdkonly \
+	--sdkroot \
+	/Users/dodobal-1/Documents/Source/Xcode.app/Contents/Developer \
+	--sdk \
+	10.2 \
+	--targetver \
+	10.0 \
+	--aot-options=-O=float32 \
+	--http-message-handler=HttpClientHandler \
+	"--abi=armv7,arm64" \
+	--symbollist \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/Trustore/obj/iPhone/Release/mtouch-symbols.list" \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/packages/SlideMenuControllerXamarin.1.1.0/lib/Xamarin.iOS10/SlideMenuController.dll" \
+	-r \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/packages/Xamarin.Facebook.iOS.4.19.0/lib/Xamarin.iOS10/Facebook.dll" \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/Trustore/obj/iPhone/Release/XbdMerge/Firebase.Core.dll" \
+	-r \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/Trustore/obj/iPhone/Release/XbdMerge/Firebase.Analytics.dll" \
+	-r \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/Trustore/obj/iPhone/Release/XbdMerge/Firebase.InstanceID.dll" \
+	-r \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/Trustore/obj/iPhone/Release/XbdMerge/Firebase.Auth.dll" \
+	-r \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/Trustore/obj/iPhone/Release/XbdMerge/Firebase.Database.dll" \
+	-r \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/packages/Xamarin.Firebase.iOS.Core.3.4.6/lib/Xamarin.iOS10/Firebase.Core.dll" \
+	-r \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/packages/Xamarin.Firebase.iOS.InstanceID.1.0.8.1/lib/Xamarin.iOS10/Firebase.InstanceID.dll" \
+	-r \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/packages/Xamarin.Firebase.iOS.Analytics.3.6.0.2/lib/Xamarin.iOS10/Firebase.Analytics.dll" \
+	-r \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/packages/Xamarin.Firebase.iOS.Auth.3.1.0/lib/Xamarin.iOS10/Firebase.Auth.dll" \
+	-r \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/packages/Xamarin.Firebase.iOS.Database.3.1.1.2/lib/Xamarin.iOS10/Firebase.Database.dll" \
+	-r \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/packages/SlideMenuControllerXamarin.1.1.0/lib/Xamarin.iOS10/SlideMenuController.dll" \
+	-r \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/packages/Xamarin.Facebook.iOS.4.19.0/lib/Xamarin.iOS10/Facebook.dll" \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	"/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/Trustore/bin/iPhone/Release/Trustore.exe" \

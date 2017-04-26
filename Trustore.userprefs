@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{1512B1AD-5C0A-4A4B-B680-CCABD89D4F8D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trustore/NotificationsViewController.cs">
+    <Files>
+      <File FileName="Trustore/AppDelegate.cs" Line="25" Column="21" />
+      <File FileName="Trustore/Entitlements.plist" />
+      <File FileName="Trustore/CreateAccountViewController.cs" Line="105" Column="65" />
+      <File FileName="Trustore/NotificationsViewController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/Trustore/CreateAccountViewController.cs" relfile="Trustore/CreateAccountViewController.cs" line="149" column="23" />
+      <Breakpoint file="/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/Trustore/CreateAccountViewController.cs" relfile="Trustore/CreateAccountViewController.cs" line="152" column="1" />
+      <Breakpoint file="/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/Trustore/CreateAccountViewController.cs" relfile="Trustore/CreateAccountViewController.cs" line="155" column="1" />
+      <Breakpoint file="/Users/dodobal-1/Documents/Work/Xamarin 2/Trustore copy 2/Trustore/CreateAccountViewController.cs" relfile="Trustore/CreateAccountViewController.cs" line="73" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Trustore PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.588a0c4ca0db6bf2b5ac9a1a9456fdabb01e7629">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam DeveloperId="Q649879G75" TeamId="92A8GH3QUW" />
+  </MonoDevelop.Ide.ItemProperties.Trustore>
+</Properties>

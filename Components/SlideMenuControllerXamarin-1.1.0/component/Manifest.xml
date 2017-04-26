@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="SlideMenuControllerXamarin" is-shell="true">
+  <name>SlideMenuController</name>
+  <publisher>Bastián Véliz</publisher>
+  <publisher-url>https://github.com/bastianX6/SlideMenuControllerXamarin</publisher-url>
+  <version>1.1.0</version>
+  <summary>Slide menu for Xamarin.iOS written en c#. Based in SlideMenuControllerSwift</summary>
+  <packages>
+    <package id="SlideMenuControllerXamarin" version="1.1.0" framework="ios-unified" />
+    <package id="SlideMenuControllerXamarin" version="1.1.0" framework="ios" />
+  </packages>
+  <screenshots>
+    <img src="screenshots/example.gif" title="example" />
+  </screenshots>
+  <samples>
+    <sample id="SlideMenuControllerXamarin.Example">
+      <name>iOS Sample</name>
+      <summary>iOS Sample</summary>
+    </sample>
+  </samples>
+</component>
